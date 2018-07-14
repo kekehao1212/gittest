@@ -5,3 +5,4 @@ let c = 1000
 let fuck = 444
 let o = 'aaaaaaaaaaaaaaaaaa'
 let z = 'ssssssssssss'
+let fuck = ssssssss
