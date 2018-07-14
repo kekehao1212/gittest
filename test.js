@@ -1,2 +1,3 @@
 let a = 10
-let b = 500
+let b = 1000
+let c = 1000
